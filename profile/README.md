@@ -3,7 +3,7 @@
 # Copa ERP Organization
 
 ## Orders solution
-![copaerp-general-orders](https://github.com/user-attachments/assets/8f02a7db-76f9-462b-8a8c-5b2627e2f3c0)
+![copaerp-general-orders](https://github.com/user-attachments/assets/e5e50fc3-e301-423a-8168-a3dec8303523)
 ## Data management
 ![copaerp-general-data](https://github.com/user-attachments/assets/f0cdea8c-bf83-48de-9b54-c5357a7e7c2d)
 ## Infrastructure management
